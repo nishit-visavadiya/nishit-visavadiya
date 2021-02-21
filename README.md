@@ -1,4 +1,4 @@
-# Hello there, I'm Vaibhav<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello there, I'm Nishit<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -14,9 +14,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tn2xuvspbm3z7pyamk7esvxtmq)
 
 ---
 
@@ -50,7 +48,7 @@
 
  <h2 align="center"> Github Statistics 📈 </h2>
  
-![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green) <br>
+![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=nishit-visavadiya&theme=blue-green) <br>
   
 
 [website]: https://vaibhav2002.github.io
