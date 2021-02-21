@@ -20,7 +20,7 @@
 
 ### Platforms
 
-<img alt="Instagram" src="https://img.shields.io/badge/Vaibhav Jaiswal%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/vaibhav.jaiswal.2511/"/>  <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img alt="Instagram" src="https://img.shields.io/badge/Nishit Visavadiya%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/nishitvisavadiya/"/>  <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/><img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 <br/>
 
@@ -32,9 +32,6 @@
  
 ![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=nishit-visavadiya&theme=blue-green) <br>
   
-
-[website]: https://vaibhav2002.github.io
-[instagram]: https://www.instagram.com/vaibhav.jaiswal.2511/
 
 
 
