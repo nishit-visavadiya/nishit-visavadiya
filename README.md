@@ -29,7 +29,7 @@
 
 <br/>
 
- <h2 align="center"> Github Statistics 📈 </h2>
+ <h2> Github Statistics 📈 </h2>
  
 ![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=nishit-visavadiya&theme=blue-green) <br>
   
